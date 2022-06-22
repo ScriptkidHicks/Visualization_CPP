@@ -1,2 +1,2 @@
-#Screen Visualization of 3d objects
+# Screen Visualization of 3d objects
 This project focused on using VTK to render various objects onscreen. We were learning how to use the pipeline model of object modification, as well as how to manipulate objects on screen, and set various video durations. More than anything this was a great lesson in how to learn from documentation. I read through an enormous amount of VTK documentation to understand the pipeline, and get the last part of this project working smoothly.
